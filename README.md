@@ -1,12 +1,12 @@
-# Me
+## Me
 - Name: Shane
 - Status: Student
 - Age: 17
-# Interests
+## Interests
 - Designing (as a whole)
 - Programming
 - Gaming
-# Learning
+## Learning
 - Java
 - Python
 - HTML
